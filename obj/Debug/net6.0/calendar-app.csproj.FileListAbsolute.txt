@@ -1,0 +1,15 @@
+/Users/nandarsoe/Projects/Deleteable/calendar-app/bin/Debug/net6.0/calendar-app
+/Users/nandarsoe/Projects/Deleteable/calendar-app/bin/Debug/net6.0/calendar-app.deps.json
+/Users/nandarsoe/Projects/Deleteable/calendar-app/bin/Debug/net6.0/calendar-app.runtimeconfig.json
+/Users/nandarsoe/Projects/Deleteable/calendar-app/bin/Debug/net6.0/calendar-app.dll
+/Users/nandarsoe/Projects/Deleteable/calendar-app/bin/Debug/net6.0/calendar-app.pdb
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.csproj.AssemblyReference.cache
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.AssemblyInfoInputs.cache
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.AssemblyInfo.cs
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.csproj.CoreCompileInputs.cache
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.dll
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/refint/calendar-app.dll
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.pdb
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/calendar-app.genruntimeconfig.cache
+/Users/nandarsoe/Projects/Deleteable/calendar-app/obj/Debug/net6.0/ref/calendar-app.dll
